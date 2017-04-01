@@ -1,0 +1,70 @@
+c:\users\phillip\documents\visual studio 2015\Projects\Pokedex\Pokedex\bin\Debug\Pokedex.exe.config
+c:\users\phillip\documents\visual studio 2015\Projects\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+c:\users\phillip\documents\visual studio 2015\Projects\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+c:\users\phillip\documents\visual studio 2015\Projects\Pokedex\Pokedex\obj\Debug\Pokedex.csprojResolveAssemblyReference.cache
+c:\users\phillip\documents\visual studio 2015\Projects\Pokedex\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+c:\users\phillip\documents\visual studio 2015\Projects\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.Cache
+c:\users\phillip\documents\visual studio 2015\Projects\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+c:\users\phillip\documents\visual studio 2015\Projects\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
+c:\users\phillip\documents\visual studio 2015\Projects\Pokedex\Pokedex\bin\Debug\App.config
+F:\Pokedex\assignment\Pokedex\Pokedex\bin\Debug\Pokedex.exe.config
+F:\Pokedex\assignment\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+F:\Pokedex\assignment\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
+F:\Pokedex\assignment\Pokedex\Pokedex\bin\Debug\App.config
+F:\Pokedex\assignment\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+F:\Pokedex\assignment\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+F:\Pokedex\assignment\Pokedex\Pokedex\obj\Debug\Pokedex.csprojResolveAssemblyReference.cache
+F:\Pokedex\assignment\Pokedex\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+F:\Pokedex\assignment\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.Cache
+F:\Pokedex\assignment\Pokedex\Pokedex\obj\Debug\Pokedex.Pokedex.resources
+C:\Users\Phillip\Desktop\Wayne Assignment\assignment\Pokedex\Pokedex\bin\Debug\Pokedex.exe.config
+C:\Users\Phillip\Desktop\Wayne Assignment\assignment\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+C:\Users\Phillip\Desktop\Wayne Assignment\assignment\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
+C:\Users\Phillip\Desktop\Wayne Assignment\assignment\Pokedex\Pokedex\bin\Debug\App.config
+C:\Users\Phillip\Desktop\Wayne Assignment\assignment\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+C:\Users\Phillip\Desktop\Wayne Assignment\assignment\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+C:\Users\Phillip\Desktop\Wayne Assignment\assignment\Pokedex\Pokedex\obj\Debug\Pokedex.csprojResolveAssemblyReference.cache
+C:\Users\Phillip\Desktop\Wayne Assignment\assignment\Pokedex\Pokedex\obj\Debug\Pokedex.Pokedex.resources
+C:\Users\Phillip\Desktop\Wayne Assignment\assignment\Pokedex\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+C:\Users\Phillip\Desktop\Wayne Assignment\assignment\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.Cache
+\\ctstudent2\studentusers\100347238\Desktop\Wayne Assignment\assignment 2.0\Pokedex\Pokedex\bin\Debug\Pokedex.exe.config
+\\ctstudent2\studentusers\100347238\Desktop\Wayne Assignment\assignment 2.0\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+\\ctstudent2\studentusers\100347238\Desktop\Wayne Assignment\assignment 2.0\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
+\\ctstudent2\studentusers\100347238\Desktop\Wayne Assignment\assignment 2.0\Pokedex\Pokedex\bin\Debug\App.config
+\\ctstudent2\studentusers\100347238\Desktop\Wayne Assignment\assignment 2.0\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+\\ctstudent2\studentusers\100347238\Desktop\Wayne Assignment\assignment 2.0\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+\\ctstudent2\studentusers\100347238\Desktop\Wayne Assignment\assignment 2.0\Pokedex\Pokedex\obj\Debug\Pokedex.Pokedex.resources
+\\ctstudent2\studentusers\100347238\Desktop\Wayne Assignment\assignment 2.0\Pokedex\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+\\ctstudent2\studentusers\100347238\Desktop\Wayne Assignment\assignment 2.0\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.Cache
+C:\Users\Phillip\Desktop\Pokedex\Pokedex\bin\Debug\App.config
+C:\Users\Phillip\Desktop\Pokedex\Pokedex\bin\Debug\Pokedex.exe.config
+C:\Users\Phillip\Desktop\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+C:\Users\Phillip\Desktop\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+C:\Users\Phillip\Desktop\Pokedex\Pokedex\obj\Debug\Pokedex.Pokedex.resources
+C:\Users\Phillip\Desktop\Pokedex\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+C:\Users\Phillip\Desktop\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.Cache
+C:\Users\Phillip\Desktop\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+C:\Users\Phillip\Desktop\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
+C:\Users\Phillip\Desktop\Pokedex\Pokedex\obj\Debug\Pokedex.csprojResolveAssemblyReference.cache
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex\Pokedex\Pokedex\bin\Debug\Pokedex.exe.config
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex\Pokedex\Pokedex\bin\Debug\App.config
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex\Pokedex\Pokedex\obj\Debug\Pokedex.csprojResolveAssemblyReference.cache
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex\Pokedex\Pokedex\obj\Debug\Pokedex.Pokedex.resources
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex\Pokedex\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.Cache
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\bin\Debug\Pokedex.exe.config
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\bin\Debug\App.config
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\bin\Debug\Newtonsoft.Json.dll
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\bin\Debug\Newtonsoft.Json.xml
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\obj\Debug\Pokedex.csprojResolveAssemblyReference.cache
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\obj\Debug\Pokedex.Pokedex.resources
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.Cache

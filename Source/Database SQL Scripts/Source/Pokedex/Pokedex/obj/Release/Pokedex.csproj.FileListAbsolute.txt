@@ -1,0 +1,14 @@
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\bin\Release\Pokedex.exe.config
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\bin\Release\App.config
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\bin\Release\Pokedex.exe
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\bin\Release\Pokedex.pdb
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\bin\Release\Newtonsoft.Json.dll
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\bin\Release\Newtonsoft.Json.xml
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\obj\Release\Pokedex.Pokedex.resources
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\obj\Release\Pokedex.Properties.Resources.resources
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\obj\Release\Pokedex.csproj.GenerateResource.Cache
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\obj\Release\Pokedex.exe
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Pokedex\Pokedex\obj\Release\Pokedex.pdb
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Source\Pokedex\Pokedex\bin\Release\Pokedex.exe.config
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Source\Pokedex\Pokedex\obj\Release\Pokedex.exe
+\\ctstudent2\studentusers\100347238\Desktop\Pokedex App\Source\Pokedex\Pokedex\obj\Release\Pokedex.pdb
